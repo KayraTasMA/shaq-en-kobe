@@ -13,6 +13,8 @@ public class run : MonoBehaviour{
     }
     void Update()
     {
+
+        
     //Check voor verticale input
         if (Input.GetAxis("Vertical") > 0)
         {

@@ -9,7 +9,7 @@ public class race : MonoBehaviour
     [SerializeField] Vector3 differenceVector;
     [SerializeField] float distance;
     Vector3 direction;
-    float speed = 11;
+    float speed = 14;
     bool gotoB =        true;
     void Start()
     {
