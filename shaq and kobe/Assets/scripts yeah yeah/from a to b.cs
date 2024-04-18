@@ -9,7 +9,7 @@ public class fromatob : MonoBehaviour
     [SerializeField] Vector3 differenceVector;
     [SerializeField] float distance;
     Vector3 direction;
-    float speed = 10;
+    float speed = 11;
     bool gotoB =        true;
     void Start()
     {
