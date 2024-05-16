@@ -17,6 +17,6 @@ public class aapieaap : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        autoMain.transform.position = Vector3.MoveTowards(Cylinder.transform.position, autoMain.transform.position, speed);
+        autoMain.transform.position = er.transform.position, autoMain.transform.position, speed);
     }
 }

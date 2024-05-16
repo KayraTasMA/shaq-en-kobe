@@ -6,6 +6,8 @@ public class fromatob : MonoBehaviour
 {
     [SerializeField] GameObject  A;
     [SerializeField] GameObject B;
+     [SerializeField] GameObject C;
+     [SerializeField] GameObject D;
     [SerializeField] Vector3 differenceVector;
     [SerializeField] float distance;
     Vector3 direction;
